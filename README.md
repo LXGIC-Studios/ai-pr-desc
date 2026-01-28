@@ -1,5 +1,11 @@
 # ai-pr-desc
 
+[![npm version](https://img.shields.io/npm/v/ai-pr-desc.svg)](https://www.npmjs.com/package/ai-pr-desc)
+[![npm downloads](https://img.shields.io/npm/dm/ai-pr-desc.svg)](https://www.npmjs.com/package/ai-pr-desc)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Generate PR titles and descriptions from git diffs using AI. Stop staring at blank PR templates.
+
 Writes your PR description so you don't have to. It reads the diff between your branch and the base branch, looks at your commit messages, and spits out a proper title and description.
 
 ## Install
