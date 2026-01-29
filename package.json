@@ -27,7 +27,7 @@
     "url": "https://github.com/lxgicstudios/ai-pr-desc"
   },
   "keywords": [
-    "ai",
+    "ai", "llm", "claude", "anthropic",
     "openai",
     "gpt",
     "git",
