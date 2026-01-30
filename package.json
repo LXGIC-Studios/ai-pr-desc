@@ -27,20 +27,26 @@
     "url": "https://github.com/lxgicstudios/ai-pr-desc"
   },
   "keywords": [
-    "ai", "llm", "claude", "anthropic",
-    "openai",
-    "gpt",
-    "git",
-    "github",
-    "pull-request",
-    "pr",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
     "commit-message",
     "developer-tools",
-    "cli",
-    "automation",
-    "workflow",
-    "typescript",
+    "dx",
+    "git",
+    "github",
+    "gpt",
+    "llm",
     "nodejs",
-    "dx"
+    "openai",
+    "pr",
+    "pull-request",
+    "typescript",
+    "workflow",
+    "zero-config"
   ]
 }
