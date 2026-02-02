@@ -3,28 +3,17 @@
   "version": "1.0.0",
   "description": "Generate PR titles and descriptions from branch diffs using OpenAI",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-pr-desc": "dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "ts-node src/cli.ts"
-  },
-  "dependencies": {
-    "commander": "^12.1.0",
-    "openai": "^4.52.0",
-    "ora": "^5.4.1",
-    "simple-git": "^3.25.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.5.0",
-    "@types/node": "^20.14.0"
-  },
-  "license": "MIT",
-  "author": "LXGIC Studios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-pr-desc"
   },
   "keywords": [
     "agentic",
@@ -48,5 +37,36 @@
     "typescript",
     "workflow",
     "zero-config"
-  ]
+  ],
+  "author": "LXGIC Studios",
+  "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-pr-desc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXGIC-Studios/ai-pr-desc"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-pr-desc/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.52.0",
+    "ora": "^5.4.1",
+    "simple-git": "^3.25.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.14.0"
+  }
 }
