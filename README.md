@@ -44,3 +44,12 @@ You'll get a title, a "what changed" section, a "why" section, and testing notes
 5. Returns a formatted PR description
 
 No more staring at a blank PR template for 5 minutes.
+
+
+---
+
+Built by [LXGIC Studios](https://github.com/LXGIC-Studios)
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
