@@ -16,34 +16,39 @@
     "dev": "ts-node src/cli.ts"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
     "commit-message",
+    "developer-productivity",
     "developer-tools",
-    "dx",
-    "git",
+    "discoverability",
+    "generative-ai",
     "github",
-    "gpt",
-    "llm",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "openai",
-    "pr",
+    "optimization",
+    "performance",
+    "performance-optimization",
     "pull-request",
-    "typescript",
-    "workflow",
-    "zero-config"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-pr-desc#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-pr-desc"
+    "url": "https://github.com/LXGIC-Studios/ai-pr-desc"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-pr-desc/issues"
